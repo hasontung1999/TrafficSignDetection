@@ -1,0 +1,12 @@
+﻿  TrafficSignDetection.cpp
+C:\Users\hason\Documents\GitHub\TrafficSignDetection\TrafficSignDetection\TrafficSignDetection\Method.h(64,1): warning C4005: 'MIN': macro redefinition
+C:\Users\hason\Documents\GitHub\TrafficSignDetection\TrafficSignDetection\TrafficSignDetection\Libraries\include\opencv2\core\cvdef.h(465): message : see previous definition of 'MIN'
+C:\Users\hason\Documents\GitHub\TrafficSignDetection\TrafficSignDetection\TrafficSignDetection\Method.h(65,1): warning C4005: 'MAX': macro redefinition
+C:\Users\hason\Documents\GitHub\TrafficSignDetection\TrafficSignDetection\TrafficSignDetection\Libraries\include\opencv2\core\cvdef.h(469): message : see previous definition of 'MAX'
+C:\Users\hason\Documents\GitHub\TrafficSignDetection\TrafficSignDetection\TrafficSignDetection\Method.h(68,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating code
+  1 of 566 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  TrafficSignDetection.vcxproj -> C:\Users\hason\Documents\GitHub\TrafficSignDetection\TrafficSignDetection\x64\Release\TrafficSignDetection.exe
